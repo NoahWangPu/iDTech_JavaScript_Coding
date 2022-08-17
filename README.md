@@ -1,1 +1,2 @@
 # JavaScript Coding
+js code
